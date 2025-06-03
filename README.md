@@ -2,5 +2,7 @@
 
 This is a test in class.
 
+# Heading 2
+
 Hello, locally sourced commit.
 
